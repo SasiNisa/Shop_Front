@@ -52,14 +52,6 @@ The frontend communicates with a live backend using **JWT-based authentication**
 - Render Deployment
 ---
 
-## ⚙️ Environment Variables
-
-Create a `.env` file in the project root:
-
-```env
-REACT_APP_API_URL=https://online-shop-back-algg.onrender.com
-
-
 ## 🚧 Future Enhancements & Roadmap
 
 This project is actively evolving. Planned improvements include:
@@ -93,6 +85,3 @@ This project is actively evolving. Planned improvements include:
 - Logging and error monitoring
 - Performance optimizations for high traffic
 - Docker-based deployment (optional)
-
-
-
