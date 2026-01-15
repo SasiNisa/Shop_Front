@@ -60,8 +60,6 @@ Create a `.env` file in the project root:
 REACT_APP_API_URL=https://online-shop-back-algg.onrender.com
 
 
----
-
 ## 🚧 Future Enhancements & Roadmap
 
 This project is actively evolving. Planned improvements include:
