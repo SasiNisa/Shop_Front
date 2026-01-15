@@ -58,3 +58,43 @@ Create a `.env` file in the project root:
 
 ```env
 REACT_APP_API_URL=https://online-shop-back-algg.onrender.com
+
+
+---
+
+## 🚧 Future Enhancements & Roadmap
+
+This project is actively evolving. Planned improvements include:
+
+### 🌐 Custom Domain & Production Hardening
+- Connect frontend and backend to a **custom domain**
+- Enable **HTTPS-only cookies** and production security headers
+- Move secrets fully to environment variables
+- Switch `DEBUG` off and apply production logging
+
+### 🛒 E-commerce Features
+- Product search and category filters
+- Wishlist functionality
+- Order history and checkout flow
+- Payment gateway integration (Stripe / PayPal – demo mode)
+
+### 👤 User Experience
+- Improved UI/UX and responsive design
+- Loading states and better error handling
+- User profile management
+- Email verification and password reset
+
+### ⚙️ Backend & Performance
+- Pagination and caching for product APIs
+- Admin dashboard for product and order management
+- Background tasks (Celery / Redis)
+- Improved API documentation (Swagger / OpenAPI)
+
+### 📊 Monitoring & Scalability
+- API rate limiting
+- Logging and error monitoring
+- Performance optimizations for high traffic
+- Docker-based deployment (optional)
+
+
+
